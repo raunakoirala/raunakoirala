@@ -17,7 +17,6 @@
 [linkedin-url]: https://www.linkedin.com/in/raunak-koirala-6a288b199/
 
 <br />
-
 ### Skills:
 Programming languages: Python, Java, C++, JavaScript, Haskell, C#, SQL and assembly languages (MIPS, MARIE)
 Web Development: HTML, CSS, JavaScript, Angular
