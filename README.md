@@ -19,8 +19,7 @@
 <br />
 
 ### Skills:
-1. Programming languages: Python, Java, C++, JavaScript, C# and some assembly languages (MIPS, MARIE)
-2. Web Development: HTML, CSS, JavaScript, Angular
-3. Other tools and skills: Databases (MySQL), 3D Virtual Modelling (Maya, Unity, Substance Painter), Android Studio,
-IntelliJ, VS Code, Git
+Programming languages: Python, Java, C++, JavaScript, Haskell, C#, SQL and assembly languages (MIPS, MARIE)
+Web Development: HTML, CSS, JavaScript, Angular
+Other tools and skills: Databases (SQL Developer, MySQL, Oracle), 3D Virtual Modelling (Maya, Unity, Substance Painter), Android Studio, IntelliJ, VS Code, Git, Linux, Unix
 
